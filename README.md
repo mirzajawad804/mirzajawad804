@@ -43,19 +43,6 @@ Stay tuned 👀✨
 
 ---
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mirzajawad804&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mirzajawad804&theme=radical" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirzajawad804&layout=compact&theme=radical" width="40%" />
-</p>
-
----
-
 ## 🌍 Connect With Me
 
 <p align="center">
