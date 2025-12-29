@@ -1,64 +1,82 @@
-# 👋 Hi, I'm Mirza Jawad
+<!-- Animated Header -->
+<h1 align="center">Hi 👋, I'm Mirza Jawad</h1>
+<h3 align="center">Frontend Web Developer | HTML • CSS • JavaScript</h3>
 
-🚀 Frontend Web Developer | 💻 HTML • CSS • JavaScript  
-📍 Passionate about building clean, responsive, and user-friendly websites
-
----
-
-## 🧑‍💻 About Me
-
-- 🎓 I’m learning and improving my skills in **Frontend Web Development**
-- 🌱 Currently focused on **HTML, CSS, and JavaScript**
-- 🛠 I enjoy creating **modern UI designs** and interactive web pages
-- 📈 Always eager to learn new technologies and best practices
-- 🔥 Goal: Become a professional **Web Developer**
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=F75C7E&center=true&vCenter=true&width=500&lines=Learning+Web+Development;Building+Cool+UI+Designs;HTML+CSS+JavaScript+Lover;Future+Frontend+Developer" />
+</p>
 
 ---
 
-## 🛠 Tech Stack
+## 🚀 About Me
 
-### 🌐 Frontend
-- **HTML5** – Semantic & accessible markup  
-- **CSS3** – Flexbox, Grid, Responsive Design  
-- **JavaScript (ES6+)** – DOM manipulation, basic logic
-
-### 🧰 Tools
-- Git & GitHub  
-- VS Code  
-- Chrome DevTools  
+- 🌱 Currently learning **Frontend Web Development**
+- 💻 Skilled in **HTML, CSS, and JavaScript**
+- 🎨 Love creating **beautiful & responsive UIs**
+- 🔥 Passionate about clean code & modern design
+- 🎯 Goal: Become a **Professional Web Developer**
 
 ---
 
-## 📌 What I Can Do
+## 🛠️ Tech Stack
 
-✔ Responsive website layouts  
-✔ Landing pages & portfolios  
-✔ Clean and structured code  
-✔ Basic interactivity using JavaScript  
-
----
-
-## 📂 Projects
-
-> 🚧 Projects will be added soon — stay tuned!
-
-I’m actively working on improving my skills and will be uploading projects regularly.
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode" />
+</p>
 
 ---
 
-## 📈 GitHub Stats
+## ✨ What I Can Build
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mirzajawad804&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mirzajawad804&layout=compact&theme=tokyonight)
-
----
-
-## 🤝 Connect With Me
-
-- 💼 GitHub: [@mirzajawad804](https://github.com/mirzajawad804)
+✅ Responsive websites  
+✅ Landing pages & portfolios  
+✅ Interactive UI using JavaScript  
+✅ Clean & structured layouts  
 
 ---
 
-⭐ *If you like my profile, consider giving a star to my repositories!*  
-✨ *Learning every day, one line of code at a time.*
+## 📂 Projects Showcase
+
+🚧 **Coming Soon!**  
+I’m actively working on projects and will upload them regularly.  
+Stay tuned 👀✨
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mirzajawad804&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mirzajawad804&theme=radical" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirzajawad804&layout=compact&theme=radical" width="40%" />
+</p>
+
+---
+
+## 🌍 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/mirzajawad804">
+    <img src="https://img.shields.io/badge/GitHub-mirzajawad804-black?style=for-the-badge&logo=github">
+  </a>
+</p>
+
+---
+
+## 🧠 Fun Facts
+
+- 🧩 I enjoy solving UI layout problems  
+- 🌙 I code better at night  
+- 🚀 Every day I learn something new  
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
+
+⭐ **Don’t forget to star my repositories if you like my work!**  
+✨ *Learning one line of code at a time.*
